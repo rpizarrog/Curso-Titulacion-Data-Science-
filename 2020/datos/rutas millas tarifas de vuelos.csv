@@ -1,0 +1,19 @@
+ruta,millas,costo
+Dallas-Austin ,178,125
+Houston-Dallas ,232,123
+Chicago-Detroit ,238,148
+Chicago-San Luis ,262,136
+Chicago-Cleveland ,301,129
+Chicago-Atlanta,593,162
+Nueva York-Miami ,1092,224
+Nueva York-San Juan,1608,264
+Nueva York-Chicago,714,287
+Chicago-Denver ,901,256
+Dallas-Salt Lake ,1005,365
+Nueva York-Dallas ,1374,459
+Chicago-Seattle,1736,424
+Los Angeles-Chicago,1757,361
+Los Angeles-Atlanta,1946,309
+Nueva York-Los Angeles,2463,444
+Los Angeles-Honolulu,2556,323
+Nueva York-San Francisco,2574,513
